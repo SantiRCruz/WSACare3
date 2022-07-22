@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WSACare</string>
+    <string name="sign_in">Sign In</string>
+    <string name="if_you_don_t_have_account_credentials_you_can_take_it_in_near_hospital_in_your_city_after_vaccination">if you don’t have account credentials, you can take it\n in near hospital in your city after vaccination</string>
+    <string name="your_login">Your Login</string>
+    <string name="your_password">Your Password</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="wsa_care">WSA Care</string>
+    <string name="in_skill_area_in_the_last_14_days">in skill area in the last 14 days</string>
+    <string name="you_haven_t_report_today_s_health_status">You haven’t report today’s health status.</string>
+    <string name="how_are_you_feeling_today">How are you feeling today?</string>
+    <string name="check_in_now">Check in now</string>
+    <string name="why_do_thi">Why do this?</string>
+    <string name="clear">CLEAR</string>
+    <string name="name">Name</string>
+    <string name="date_and_time">Date and Time</string>
+</resources>
